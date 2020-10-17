@@ -46,7 +46,7 @@ img{
 
 form input{
     position: relative;
-    width:50%;
+    width:400px;
     padding-top: 6px;
     margin: 10px;
     padding: 10px;
@@ -68,7 +68,7 @@ button{
 }
 
 #footer{
-    margin: 50px 0 0 0;
+    margin: 100px 0 0 0;
     bottom:0;
     position:relative;
     border-top: 1px solid #c6c6c6;
